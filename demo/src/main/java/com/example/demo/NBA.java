@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class NBA extends HrefableDto{
+public class NBA {
 
     private String Name;
 

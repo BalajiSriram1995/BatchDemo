@@ -19,8 +19,7 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.FileSystemResource;
 import org.springframework.core.io.Resource;
 
-@Configuration
-@EnableBatchProcessing
+
 public class BatchConfig2 {
 
     @Autowired
